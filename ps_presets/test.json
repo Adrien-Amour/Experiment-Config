@@ -1,0 +1,13 @@
+{
+  "length": 500,
+  "threshold": 4,
+  "pmt_gate_high": true,
+  "amplitudes": {
+    "397c": 0.2,
+    "866 RP": 0.04
+  },
+  "detunings": {
+    "397c": -20.0,
+    "866 RP": 35.0
+  }
+}
